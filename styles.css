@@ -55,6 +55,12 @@ header button:active {
   display: flex;
   width: fit-content;
   align-items: center;
+  justify-content: space-between;
+}
+#aboutusinfo {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
 }
 .aboutusimg {
   width: 300px;
