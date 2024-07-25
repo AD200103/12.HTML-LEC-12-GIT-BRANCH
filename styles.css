@@ -82,3 +82,7 @@ header button:active {
   height: 2px;
   background-color: black;
 }
+#aboutusinfo p {
+  color: gray;
+  font-weight: 550;
+}
