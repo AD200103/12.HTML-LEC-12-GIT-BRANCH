@@ -53,10 +53,10 @@ header button:active {
 }
 #aboutus {
   display: flex;
-  width: 60%;
+  width: 100%;
   align-items: center;
-  justify-content: space-between;
-  gap: 10%;
+  justify-content: center;
+  gap: 6%;
 }
 #aboutusinfo {
   display: flex;
@@ -76,8 +76,8 @@ header button:active {
   display: flex;
 }
 .aboutusimg {
-  width: 50%;
-  height: 500px;
+  width: 30%;
+  height: 600px;
   object-fit: cover;
 }
 .border {
@@ -106,7 +106,6 @@ ul li {
 
 ul li::before {
   content: "";
-  display: flex;
   width: 10px;
   height: 10px;
   border-radius: 50%;
