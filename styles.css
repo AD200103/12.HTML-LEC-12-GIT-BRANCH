@@ -132,9 +132,13 @@ ul li::before {
 .henderson {
   color: #ffda1c;
 }
-defenderson {
+.defenderson {
   color: red;
 }
+
 .behinderson {
   color: aqua;
+}
+.senfenderson {
+  color: blue;
 }
